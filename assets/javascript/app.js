@@ -1,27 +1,46 @@
 // select all elements
-const start = document.getElementById("start");
-// create our questions
-// create some variables
-// render a question
-function renderQuestion() {
-    let q = questions[runningQuestion];
 
-    question.innerHTML = "<p>" + q.question + "</p>";
-    qImg.innerHTML = "<img src=" + q.imgSrc + ">";
-    choiceA.innerHTML = q.choiceA;
-    choiceB.innerHTML = q.choiceB;
-    choiceC.innerHTML = q.choiceC;
-}
-start.addEventListener("click", startQuiz);
+// create our questions
+
+// create some variables
+
+// render a question
+
 // start quiz
-function startQuiz() {
-    start.style.display = "none";
-    renderQuestion
-}
-// render progress
-// counter render
-// checkAnwer
+
+
+// show progress
+
+
+// show/render counter 
+
+
+// change progress color to red
+
+// end the quiz and show the score
+
+
+// check Answer
+
 // answer is correct
+
+// change progress color to green
+
+// answer is wrong
+// change progress color to red
+
+// end the quiz and show the score
+
+
+// answer is correct
+
 // answer is Wrong
+
+
 // score render
-// calculate the right answers
+
+
+// calculate the amount of questions answered correctly by the user
+
+
+// choose the image based on the scorePerCent
