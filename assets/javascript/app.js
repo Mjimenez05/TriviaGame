@@ -1,5 +1,3 @@
-// select all elements
-
 // create our questions
 
 // create some variables
@@ -8,22 +6,15 @@
 
 // start quiz
 
-
-// show progress
-
-
 // show/render counter 
 
-
 // change progress color to red
-
 // end the quiz and show the score
 
 
 // check Answer
 
 // answer is correct
-
 // change progress color to green
 
 // answer is wrong
@@ -32,7 +23,7 @@
 // end the quiz and show the score
 
 
-// answer is correct
+// git addanswer is correct
 
 // answer is Wrong
 
