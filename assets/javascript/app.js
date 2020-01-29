@@ -1,16 +1,19 @@
-// create our questions
+const startButton = document.getElementById('start-btn')
 
-// create some variables
+startButton.addEventListener('click', startGame)
+    // start quiz
+function startGame() {
 
-// render a question
+}
 
-// start quiz
+// next question
+function setNextQuestion() {
 
-// show/render counter 
+}
 
-// change progress color to red
-// end the quiz and show the score
+function selectAnswer(params) {
 
+}
 
 // check Answer
 
